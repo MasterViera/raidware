@@ -5,7 +5,7 @@ local words = {
 }
 
 local player = game.Players.LocalPlayer
-local keybind = 'j'
+local keybind = 'e'
 
 local event = game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest
 
